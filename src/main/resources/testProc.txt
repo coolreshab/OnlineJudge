@@ -1,0 +1,164 @@
+Name:   java
+Umask:  0022
+State:  S (sleeping)
+Tgid:   1
+Ngid:   0
+Pid:    1
+PPid:   0
+TracerPid:      0
+Uid:    0       0       0       0
+Gid:    0       0       0       0
+FDSize: 64
+Groups: 0 1 2 3 4 6 10 11 20 26 27
+NStgid: 1
+NSpid:  1
+NSpgid: 1
+NSsid:  1
+VmPeak:  2025948 kB
+VmSize:  2017724 kB
+VmLck:         0 kB
+VmPin:         0 kB
+VmHWM:    207288 kB
+VmRSS:    185388 kB
+RssAnon:          176072 kB
+RssFile:            9316 kB
+RssShmem:              0 kB
+VmData:   351424 kB
+VmStk:       132 kB
+VmExe:         8 kB
+VmLib:      5256 kB
+VmPTE:       568 kB
+VmSwap:        0 kB
+HugetlbPages:          0 kB
+CoreDumping:    0
+Threads:        28
+SigQ:   0/7822
+SigPnd: 0000000000000000
+ShdPnd: 0000000000000000
+SigBlk: 0000000000000000
+SigIgn: 0000000200000000
+SigCgt: 2000000001005ccf
+CapInh: 00000000a80425fb
+CapPrm: 00000000a80425fb
+CapEff: 00000000a80425fb
+CapBnd: 00000000a80425fb
+CapAmb: 0000000000000000
+NoNewPrivs:     0
+Seccomp:        2
+Speculation_Store_Bypass:       vulnerable
+Cpus_allowed:   3
+Cpus_allowed_list:      0-1
+Mems_allowed:   1
+Mems_allowed_list:      0
+voluntary_ctxt_switches:        84
+nonvoluntary_ctxt_switches:     247
+/proc # cat 1/status
+Name:   java
+Umask:  0022
+State:  S (sleeping)
+Tgid:   1
+Ngid:   0
+Pid:    1
+PPid:   0
+TracerPid:      0
+Uid:    0       0       0       0
+Gid:    0       0       0       0
+FDSize: 64
+Groups: 0 1 2 3 4 6 10 11 20 26 27
+NStgid: 1
+NSpid:  1
+NSpgid: 1
+NSsid:  1
+VmPeak:  2025948 kB
+VmSize:  2017724 kB
+VmLck:         0 kB
+VmPin:         0 kB
+VmHWM:    207288 kB
+VmRSS:    185480 kB
+RssAnon:          176164 kB
+RssFile:            9316 kB
+RssShmem:              0 kB
+VmData:   351492 kB
+VmStk:       132 kB
+VmExe:         8 kB
+VmLib:      5256 kB
+VmPTE:       568 kB
+VmSwap:        0 kB
+HugetlbPages:          0 kB
+CoreDumping:    0
+Threads:        28
+SigQ:   0/7822
+SigPnd: 0000000000000000
+ShdPnd: 0000000000000000
+SigBlk: 0000000000000000
+SigIgn: 0000000200000000
+SigCgt: 2000000001005ccf
+CapInh: 00000000a80425fb
+CapPrm: 00000000a80425fb
+CapEff: 00000000a80425fb
+CapBnd: 00000000a80425fb
+CapAmb: 0000000000000000
+NoNewPrivs:     0
+Seccomp:        2
+Speculation_Store_Bypass:       vulnerable
+Cpus_allowed:   3
+Cpus_allowed_list:      0-1
+Mems_allowed:   1
+Mems_allowed_list:      0
+voluntary_ctxt_switches:        84
+nonvoluntary_ctxt_switches:     247
+/proc # cat 1/status
+Name:   java
+Umask:  0022
+State:  S (sleeping)
+Tgid:   1
+Ngid:   0
+Pid:    1
+PPid:   0
+TracerPid:      0
+Uid:    0       0       0       0
+Gid:    0       0       0       0
+FDSize: 64
+Groups: 0 1 2 3 4 6 10 11 20 26 27
+NStgid: 1
+NSpid:  1
+NSpgid: 1
+NSsid:  1
+VmPeak:  2025948 kB
+VmSize:  2017724 kB
+VmLck:         0 kB
+VmPin:         0 kB
+VmHWM:    207288 kB
+VmRSS:    185480 kB
+RssAnon:          176164 kB
+RssFile:            9316 kB
+RssShmem:              0 kB
+VmData:   351492 kB
+VmStk:       132 kB
+VmExe:         8 kB
+VmLib:      5256 kB
+VmPTE:       568 kB
+VmSwap:        0 kB
+HugetlbPages:          0 kB
+CoreDumping:    0
+Threads:        28
+SigQ:   0/7822
+SigPnd: 0000000000000000
+ShdPnd: 0000000000000000
+SigBlk: 0000000000000000
+SigIgn: 0000000200000000
+SigCgt: 2000000001005ccf
+CapInh: 00000000a80425fb
+CapPrm: 00000000a80425fb
+CapEff: 00000000a80425fb
+CapBnd: 00000000a80425fb
+CapAmb: 0000000000000000
+NoNewPrivs:     0
+Seccomp:        2
+Speculation_Store_Bypass:       vulnerable
+Cpus_allowed:   3
+Cpus_allowed_list:      0-1
+Mems_allowed:   1
+Mems_allowed_list:      0
+voluntary_ctxt_switches:        84
+nonvoluntary_ctxt_switches:     247

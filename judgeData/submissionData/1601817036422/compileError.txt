@@ -1,0 +1,5 @@
+Main.cpp:30:13: error: expected ';' after return statement
+    return 0
+            ^
+            ;
+1 error generated.
